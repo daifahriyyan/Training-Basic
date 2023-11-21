@@ -68,6 +68,9 @@
     padding-top: 50px;
     font-weight: bold;
 }
+.about img{
+    width: 500px;
+}
 
 /* Service Section */
 .service{
